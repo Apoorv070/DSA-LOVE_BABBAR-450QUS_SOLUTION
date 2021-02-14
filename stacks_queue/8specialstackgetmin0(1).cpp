@@ -1,3 +1,5 @@
+
+//o(1) space o(n) time
 bool ispar(string x)
 {
     // Your code here
@@ -45,3 +47,6 @@ bool ispar(string x)
     ans = false;
     return ans;
 }
+
+//o(1) space and time
+// https://www.youtube.com/watch?v=QMlDCR9xyd8
